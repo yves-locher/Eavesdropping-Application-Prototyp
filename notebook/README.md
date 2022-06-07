@@ -1,6 +1,6 @@
 # Inhalt des Verzeichnis Notebook
 
-Im Folder Notebooks werden die verschiedenen Verusche abgelegt, welche im Rahmen des Projektes gemacht wurden.
+In diesem Verzeichnis werden die verschiedenen Verusche abgelegt, welche im Rahmen des Projektes gemacht wurden. 
 
 - [000-Generate-Noise.ipynb](000-Generate-Noise.ipynb)- Hiermit wurden die verschiedenen Noise Varainten erstellt.
 - [001-Audio-Analysen.ipynb](001-Audio-Analysen.ipynb)- Analyse, wie sich die verschiedenen Testaudios unterscheiden.
