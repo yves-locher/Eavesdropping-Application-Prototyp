@@ -16,8 +16,7 @@ Die Ergebnisse befinden sich in diesem Git.
 - [Audio](/Audio) Hier werden sämtliche Audio Dateien abgelegt
     - [Garage-Band](/Audio/Garage-Band) Ein Demo-Projekt, welches verwendet werden kann um die Sound Dateien übereienander zu legen. 
     - [Noise](/Audio/Noise) Enthält die verschiedenen Noise Arten
-    - [Testaudios](/Audio/Testaudios) Enthält alle Testaudios welche aus dem Secret Text sowie dem überlagerten Noise bestehen
+    - [Testaudios](/Audio/Testaudios) Enthält alle Testaudios, welche aus dem Secret Text sowie dem überlagerten Noise bestehen.
     - [Secret-Text.wav](/Audio/Secret-Text.wav) Der gesprochene Secret - Text welcher für das Projekt verwendet wurde 
 - [notebook](/notebook) Enthält alle Jupyter Notbeooks welche verwendet wurden für die Bachelorarbeit
-- [README.md](README.md) Dieses File
 
